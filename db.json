@@ -1,0 +1,138 @@
+{
+  "posts": [
+    {
+      "userNameR": "Shubham",
+      "emailIdR": "shubham@gmail.com",
+      "passwordR": "1234",
+      "role": "student",
+      "id": 11
+    },
+    {
+      "userNameR": "Aditya",
+      "emailIdR": "aditya007@gmail.com",
+      "passwordR": "123654",
+      "role": "student",
+      "id": 12
+    },
+    {
+      "userNameR": "Sonali",
+      "emailIdR": "mylove@gmail.com",
+      "passwordR": "147",
+      "role": "student",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "userNameR": "sASS",
+      "emailIdR": "jd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 2
+    },
+    {
+      "userNameR": "SG",
+      "emailIdR": "kdd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 3
+    },
+    {
+      "userNameR": "kd",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "",
+      "role": "teacher",
+      "id": 4
+    },
+    {
+      "userNameR": null,
+      "emailIdR": null,
+      "passwordR": null,
+      "role": "teacher",
+      "id": 5
+    },
+    {
+      "userNameR": "kd",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 6
+    },
+    {
+      "userNameR": "kd",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 7
+    },
+    {
+      "userNameR": "kk",
+      "emailIdR": "jd@gmail.com",
+      "passwordR": "123",
+      "role": "teacher",
+      "id": 8
+    },
+    {
+      "userNameR": "Kd",
+      "emailIdR": "kundanchaurasia4@gmail.com",
+      "passwordR": "12345",
+      "role": "teacher",
+      "id": 9
+    },
+    {
+      "userNameR": "Kd",
+      "emailIdR": "kundanchaurasia4@gmail.com",
+      "passwordR": "123456",
+      "role": "teacher",
+      "id": 10
+    },
+    {
+      "userNameR": "Kd",
+      "emailIdR": "kundanchaurasia4@gmail.com",
+      "passwordR": "123",
+      "role": "teacher",
+      "id": 11
+    },
+    {
+      "userNameR": "SG",
+      "emailIdR": "jd@gmail.com",
+      "passwordR": "qqq",
+      "role": "teacher",
+      "id": 12
+    },
+    {
+      "userNameR": "Kd",
+      "emailIdR": "kundanchaurasia4@gmail.com",
+      "passwordR": "123456",
+      "role": "teacher",
+      "id": 13
+    },
+    {
+      "userNameR": "",
+      "emailIdR": "",
+      "passwordR": "",
+      "role": "teacher",
+      "id": 14
+    }
+  ],
+  "profile": [
+    {
+      "firstrow1": "English",
+      "firstrow2": "Science",
+      "firstrow3": "",
+      "firstrow4": "",
+      "secondRow1": "Hindi ",
+      "secondRow2": "computer",
+      "secondRow3": "social science",
+      "secondRow4": "",
+      "thirdRow1": "maths",
+      "thirdRow2": "maths",
+      "thirdRow3": "maths",
+      "thirdRow4": "",
+      "fourthRow1": "hindi",
+      "fourthRow2": "hindi",
+      "fourthRow3": "",
+      "fourthRow4": ""
+    }
+  ]
+}

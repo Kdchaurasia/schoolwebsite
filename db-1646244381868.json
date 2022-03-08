@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "userNameR": "kd@JVgjk",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "12",
+      "role": "student",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "userNameR": "sASS",
+      "emailIdR": "jd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 2
+    },
+    {
+      "userNameR": "SG",
+      "emailIdR": "kdd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 3
+    },
+    {
+      "userNameR": "kd",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "",
+      "role": "teacher",
+      "id": 4
+    },
+    {
+      "userNameR": null,
+      "emailIdR": null,
+      "passwordR": null,
+      "role": "teacher",
+      "id": 5
+    },
+    {
+      "userNameR": "kd",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 6
+    },
+    {
+      "userNameR": "kd",
+      "emailIdR": "kd@gmail.com",
+      "passwordR": "111",
+      "role": "teacher",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

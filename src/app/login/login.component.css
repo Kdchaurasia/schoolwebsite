@@ -1,0 +1,25 @@
+/* .login{
+  width: 350px;
+  margin-left: 420px;
+  margin-top: 40px;
+}
+.mat-radio-button ~ .mat-radio-button {
+  margin-left: 16px;
+}
+:host {
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+} */
+input.ng-touched.ng-invalid{
+  border: 2px solid red;
+}
+input.ng-valid{
+  border: 2px solid green;
+}
+label{
+  color:white
+}
+mat-tab.lab{
+  color:white;
+}
